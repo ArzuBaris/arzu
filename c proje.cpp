@@ -4,5 +4,6 @@ main()
 {
 	printf("merhaba arzu");
 	printf(" merhaba abi");
+	printf("merhaba");
 	getch();
 }
