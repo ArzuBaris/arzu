@@ -3,5 +3,6 @@
 main()
 {
 	printf("merhaba arzu");
+	printf(" merhaba abi");
 	getch();
 }
